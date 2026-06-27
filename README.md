@@ -1,8 +1,8 @@
-# ⚽ Mundial Predictor ML
+#  Mundial Predictor ML
 
 Proyecto de Machine Learning para predecir partidos y simular un Mundial usando modelos de clasificación.
 
-## 🚀 Características
+##  Características
 
 - Predicción de partidos
 - Probabilidades de victoria
@@ -12,14 +12,14 @@ Proyecto de Machine Learning para predecir partidos y simular un Mundial usando 
 - Dashboard interactivo con Streamlit
 
 
-## 🤖 Modelos usados
+##  Modelos usados
 
 - Regresión Logística
 - Random Forest
 - XGBoost
 
 
-## 📊 Variables utilizadas
+##  Variables utilizadas
 
 Datos de equipos:
 
@@ -30,6 +30,4 @@ Datos de equipos:
 - Fuerza ofensiva
 - Fuerza defensiva
 
-
-## 📂 Estructura
 
