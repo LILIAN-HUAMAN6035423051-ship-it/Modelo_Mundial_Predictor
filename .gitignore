@@ -1,0 +1,25 @@
+# Entorno virtual
+
+env/
+
+
+# Python
+
+__pycache__/
+
+*.pyc
+
+
+# Modelos temporales
+
+*.pkl
+
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+
+# Sistema
+
+.vscode/
